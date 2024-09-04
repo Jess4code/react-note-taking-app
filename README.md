@@ -23,11 +23,14 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation 
 
 1. Clone this repository:
+
    ```sh
    git clone https://github.com/Jess4code/react-note-taking-app.git
   ```
+
 2. install dependencies:
-  ```sh
+
+   ```sh
   cd react-note-taking-app
   npm i
   npm i react-router-dom
@@ -37,7 +40,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Running the app:
 
-  ```sh
+   ```sh
   npm run start
   ```
 
