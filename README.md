@@ -32,9 +32,17 @@ These instructions will help you get a copy of the project up and running on you
 
    ```sh
   cd react-note-taking-app
-  npm i
+  ```
+   ```sh
+  npm install
+  ```
+   ```sh
   npm i react-router-dom
+  ```
+   ```sh
   npm i react-icons
+  ```
+   ```sh
   npm i uuid
   ```
 
